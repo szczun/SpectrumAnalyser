@@ -9,14 +9,17 @@ A frequency spectrum analysis program which process the digital signal using the
 
 ## Dependencies:
     To install the needed dependecies use the command: 
+    
     ```bash
     pip install -r requirements.txt
     ```
     If any error will occure try on the Linux system: 
+    
     ```bash
     sudo apt-get install libsndfile1 ffmpeg
     ``` 
     or for a macOS: 
+    
     ```bash
     brew install libsndfile ffmpeg
     ```
